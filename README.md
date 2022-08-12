@@ -1,4 +1,4 @@
-# <a href="https://snowymonkey.github.io/bbqmeter/">BBQ Meter</a>
+# <a href="https://github.com/snowymonkey/Tic-tac-toe">Tic-tac-toe</a>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-FFE162">
@@ -20,19 +20,12 @@
 
 ## :clipboard: About
 
-An calculator to know BBQ expenses easier!
+An simple Tic-tac-toe game for training.
 
-- Less than 6H:
-&nbsp;  Meat : 400g /people;
-&nbsp;  Beer : 1.2L /people;
-&nbsp;  Soda/Water : 1L /people.
+Features:
 
-- More than 6H
-&nbsp;  Meat : 650g /people;
-&nbsp;  Beer : 2L /people;
-&nbsp;  Soda/Water : 1.5L /people.
-
-- Kids count as half.
+- Winner announcement;
+- Game reset button.
 
 ## :computer: Tecnologies
 
