@@ -1,0 +1,19 @@
+/* resetar todas os estilos primeiro */
+
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: Hack Nerd Font;
+}
+
+.stage {}
+
+.sqm {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: beige;
+    border: 1px solid grey;
+}
