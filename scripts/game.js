@@ -38,7 +38,7 @@ function handleMove(position) {
     }
     return gameOver;
 }
-
+// Verifies if someone already won
 function winner() {
 
     for (let i = 0; i < winStates.length; i++) {
